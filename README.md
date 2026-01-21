@@ -117,10 +117,3 @@ This project was created for educational purposes as part of a university assign
 
 
 ---
-
-If you want, I can also make:
-- a shorter GitHub-style README  
-- a more academic/professor-style README  
-- or a version with screenshots/examples  
-
-Just tell me which style you want.
