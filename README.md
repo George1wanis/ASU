@@ -75,7 +75,7 @@ The total resistance = <value>
 ## Compilation and Run
 
 Compile:
-```bash
+```bash```
 g++ -o resistance main.cpp
 Run:
 
